@@ -1,2 +1,2 @@
 # thenextgeneration-analitics
-Repository for data and web science projects
+Repository for data science projects
